@@ -9,6 +9,7 @@ Responsibilities: Develop new light patterns and effects for Jellyfish
     Lighting. Assist in the production of the product.
     
 **Learning Through Robotics**
+
 Teacher
 April 2018 - May 2019
 Responsibilities: Teach and supervise K-6 students robotics through the
@@ -16,7 +17,10 @@ Responsibilities: Teach and supervise K-6 students robotics through the
     how to troubleshoot minor computer errors.
     
 **Provo School District, Canyon Crest Elementary**
+
 Custodian / Supervisor
 September 2017 - April 2018
 Responsibilities: Nightly cleaning including vacuuming, cleaning rooms,
     emptying garbage cans. Supervised other sweepers, locking building.
+
+    
