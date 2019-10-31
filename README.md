@@ -1,8 +1,7 @@
-Jonathan Nielsen
-===
+# Jonathan Nielsen
 
-Experience
----
+
+## Experience
     Jellyfish Lighting
         Junior Developer
         Oct 2018 - Present
