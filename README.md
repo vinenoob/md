@@ -2,7 +2,7 @@
 
 
 ## Experience
-    Jellyfish Lighting
+    **Jellyfish Lighting**
         Junior Developer
         Oct 2018 - Present
         Responsibilities: Develop new light patterns and effects for Jellyfish
