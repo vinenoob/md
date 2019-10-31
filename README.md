@@ -3,6 +3,7 @@
 
 ## Experience
 **Jellyfish Lighting**
+
 Junior Developer
 Oct 2018 - Present
 Responsibilities: Develop new light patterns and effects for Jellyfish
@@ -23,4 +24,10 @@ September 2017 - April 2018
 Responsibilities: Nightly cleaning including vacuuming, cleaning rooms,
     emptying garbage cans. Supervised other sweepers, locking building.
 
-    
+**BYU Alumni Association, Aspen Grove**
+
+Custiodan / Groundskeeper
+May 2017 - September 2017
+Responsibilities: Cleaning guest rooms and buildings, maintaining
+    outdoor grounds and facilities, fulfilling guest requests for supplies and
+    general directions. 
